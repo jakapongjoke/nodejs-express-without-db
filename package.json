@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-express-without-db",
+  "version": "1.0.0",
+  "description": "nodejs exporess without db ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakapongjoke/nodejs-express-without-db.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakapongjoke/nodejs-express-without-db/issues"
+  },
+  "homepage": "https://github.com/jakapongjoke/nodejs-express-without-db#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
