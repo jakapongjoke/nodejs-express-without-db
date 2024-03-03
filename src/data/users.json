@@ -2,22 +2,23 @@
   {
     "user_id": 1,
     "email": "user1@example.com",
-    "password": "$2b$10$G2zKS5/K//1HbRYBq3cf7eTWbjfY9zx6Jxg0u/RF4O83Sti.7hSSO"
+    "password": "$2a$12$KUXCQbe.U1hLdJXFMUEqRORkYH76HlTr8gD9KPtvkoOFuYzW4eHia"
   },
   {
     "user_id": 2,
     "email": "user2@example.com",
-    "password": "$2b$10$G2zKS5/K//1HbRYBq3cf7eTWbjfY9zx6Jxg0u/RF4O83Sti.7hSSO"
+    "password": "$2a$12$MlBzBnMIurpWvVrm5V/3iO4TJ24YpP318XKBvGrB28K8q2kvwGXIu"
   },
   {
     "user_id": 3,
     "email": "user3@example.com",
-    "password": "$2b$10$G2zKS5/K//1HbRYBq3cf7eTWbjfY9zx6Jxg0u/RF4O83Sti.7hSSO"
+    "password": "$2a$12$.FJy377g2IJK.cAS0BqD9ObRnmz0d252AS1FrtJcIy6jh61l.xU0i"
   },
   {
     "user_id": 4,
     "email": "user4@example.com",
-    "password": "$2b$10$G2zKS5/K//1HbRYBq3cf7eTWbjfY9zx6Jxg0u/RF4O83Sti.7hSSO"
+    "password": "$2a$12$NcyUbSz08nWEYHyhHegmm.nlfqUdBIe2f1U/ae1aYF.3hfekN51Uy"
+    
   }
 ]
 
